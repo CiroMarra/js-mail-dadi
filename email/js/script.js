@@ -31,5 +31,5 @@ for(let i = 0; i < listEmail.length; ++i) {
         alert('Email non trovata nella lista');
  
     }
-
+    // controllo che l'email sia nella lista
     console.log(emailFound === true);
